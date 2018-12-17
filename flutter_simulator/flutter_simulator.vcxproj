@@ -106,7 +106,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>DART_SHARED_LIB;GLFW_TRACING;GLFW_TESTING;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>DART_SHARED_LIB;GLFW_EXPOSE_NATIVE_WIN32;GLFW_TRACING;GLFW_TESTING;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalIncludeDirectories>$(DART_SDK);$(SolutionDir)glfw3;$(SolutionDir)flutter_engine;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
