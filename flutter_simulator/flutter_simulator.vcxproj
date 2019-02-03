@@ -75,14 +75,14 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <OutDir>F:\flutter-simulator-dart\desktop_simulator\</OutDir>
+    <OutDir>D:\Simon\Documents\Visual Studio 2017\Projects\FlutterDemoConsole\desktop_simulator\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <OutDir>F:\flutter-simulator-dart\desktop_simulator\</OutDir>
+    <OutDir>D:\Simon\Documents\Visual Studio 2017\Projects\FlutterDemoConsole\desktop_simulator\</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
